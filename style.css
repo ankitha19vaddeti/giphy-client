@@ -1,0 +1,25 @@
+.col-45 {
+    width: 45%;
+}
+.inline-block {
+    display: inline-block;
+}
+.user-search {
+    padding: 5px;
+}
+.search-wrapper {
+    margin-left: 20px;
+    border-right: 1px solid grey;
+}
+.quilljs-editor-wrapper {
+    margin: 20px;
+    vertical-align: top;
+}
+.gif-image {
+    margin: 10px;
+    border: 1px solid grey;
+}
+
+.search-results .gif-image {
+    cursor: pointer;
+}
